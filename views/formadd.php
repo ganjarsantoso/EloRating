@@ -30,6 +30,14 @@
                     	<input type="file" name="urlfoto">
                     </td>
                 </tr>
+            	<tr>
+                	<td>
+                    	Password
+                    </td>
+                    <td>
+                    	<input type="password" name="pass">
+                    </td>
+                </tr>
             </table>
             <input type="submit" name="addmember">
         </form>
