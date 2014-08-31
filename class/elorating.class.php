@@ -1,13 +1,5 @@
 <?php
 
-/**
- * handles the elo rating system to use in a facemash-like website
- * @author Ganjar Santoso
- * @link http://www.twitter.com/ganjarsantoso
- * @link https://github.com/ganjarsantoso/EloRating
- * @license http://opensource.org/licenses/MIT MIT License
- */
-
 class EloRating
 {
 	/**

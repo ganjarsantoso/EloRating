@@ -1,7 +1,7 @@
 <?php
 
 if (version_compare(PHP_VERSION, '5.3.0', '<')) {
-    require_once('library/earlier.version.php');
+    exit('Sorry, this script does not run on a PHP version smaller than 5.3.0 !');
 }
 
 require_once('class/elorating.class.php');
